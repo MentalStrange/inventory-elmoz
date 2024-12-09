@@ -1,2 +1,4 @@
 node_modules
 *.jpeg
+.idea
+.env
